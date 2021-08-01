@@ -1,1 +1,1 @@
-# TryHackMe-BrainPan1-WriteUp
+# TryHackMe BrainPan1 Room WriteUp
